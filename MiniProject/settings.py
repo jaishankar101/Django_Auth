@@ -137,8 +137,8 @@ myMail.setVar()
 EMAIL_HOST = 'smtp.gmail.com'
 # EMAIL_HOST_USER = os.environ.get('EMAIL_FROM_USER')
 # EMAIL_HOST_PASSWORD = os.environ.get('EMAIL_HOST_PASSWORD')
-EMAIL_HOST_USER = "jaishankar.cs20@bmsce.ac.in"
-EMAIL_HOST_PASSWORD = "bmsce.ac.in"
+EMAIL_HOST_USER = "yourmail@id.com"
+EMAIL_HOST_PASSWORD = "yourpassword"
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 
